@@ -2,9 +2,6 @@
 
 ###Flag Design & Graphic Design Project for *Fundamentals of Web Design*.
 
-<<<<<<< HEAD
-<h3>I chose the France flag.</h3>
-=======
 By Francisco & Jose.
 
 Union Hack consisted in mashing up a flag of our election and then designing a flag of our own. Following the brief and after watching *Ted Kaye* intervention in TedEx, we figured how our flags should be designed like:
@@ -22,30 +19,23 @@ Union Hack consisted in mashing up a flag of our election and then designing a f
 ##Francisco:
 
 We chose the France flag.
->>>>>>> 95f25bcdeaa47f98df9a25cb319e757a76d6d09e
 
-I chose this flag by its simplicity, so I thought I could add something more valuable and take the most of it.
+We chose this flag by its simplicity, so I thought I could add something more valuable and take the most of it.
 
 I started by doing some variations, trying different shapes, playing with lots of colours and manipulate them. Then I did some sketches until reached the final product.
 
-<<<<<<< HEAD
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_1.png)
-Variation 1
+![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_1.png?raw=true)
 
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_2.png)
-Variation 2
+![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_2.png?raw=true)
 
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_3.png)
-Variation 3
+![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_3.png?raw=true)
 
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_4.png)
-Variation 4
+![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_4.png?raw=true)
 
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_5.png)
-Variation 5
+![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/variations_5.png)
 
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_6.png)
-Variation 6
+![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/variations_6.png)
+
 
 ####Final Implementation
 
@@ -99,35 +89,17 @@ This is the final result:
 
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Jose's%20Flag/Mieres%20Flag%20Mashup/Flags%20Mash-up-final-VAR3.png?raw=true)
 *Final Variation 3*
->>>>>>> 95f25bcdeaa47f98df9a25cb319e757a76d6d09e
 
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Jose's%20Flag/Mieres%20Flag%20Mashup/Flags%20Mash-up-final-VAR4.png?raw=true)
 *Fianl Variation 4*
 
 
-<<<<<<< HEAD
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/sketches.png)
-Sketches
-
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/final_1.png)
-Final result 1
-
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/final_2.png)
-Final result 2
-
-
-
-<h3>Own flag</h3>
-
-
-=======
 ###Own Flag
 
 To design my own flag, I decided to look for a landscape I liked and try and get all the elements of it into a flag that would represent it. 
 
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Jose's%20Flag/Own%20Flag/Landscape.png?raw=true)
 *Landscape chosen*
->>>>>>> 95f25bcdeaa47f98df9a25cb319e757a76d6d09e
 
 I made some sketches for the symbolism and tried to play with Switzerland, Sweden and South Africa flags, first two because of their medieval looking, and South Africa because the math relation of the shapes. 
 This is the final result:
@@ -137,4 +109,3 @@ This is the final result:
 
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Jose's%20Flag/Own%20Flag/Var2.png?raw=true)
 *Variation 2, Sweden and Switzerland*
-
