@@ -32,10 +32,10 @@ Variation 1
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_2.png?raw=true)
 Variation 2
 
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_3.png?raw=true)
+![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_4.png?raw=true)
 Variation 3
 
-![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_4.png?raw=true)
+![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_3.png?raw=true)
 Variation 4
 
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/variations_5.png)
@@ -44,13 +44,12 @@ Variation 5
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/variations_6.png)
 Variation 6
 
-
-####Final Implementation
-
 One of the goals was to end with something simple that could show the entire beauty of the flag.
 
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/sketches.jpg)
 Sketches 
+
+####Final Implementation
 
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/final_1.png)
 Variation 1
@@ -65,12 +64,12 @@ When choosing my flag, I looked for a landscape that had loads of different visu
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/ownflag/ownflag.png)
 Landscape chosen
 
-![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/ownflag/sketches.jpg)
-Sketches 
-
 I did some sketches around symbols and played as much I could with the atmosphere and history behind it to have something simple and engaging at the same time.
 
 I tried different colours, different shapes and turning it into something meaningful was a priority and also a challenge. 
+
+![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/ownflag/sketches.jpg)
+Sketches 
 
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/ownflag/ownflag_variation1.png)
 Variation 1
