@@ -18,32 +18,65 @@ Union Hack consisted in mashing up a flag of our election and then designing a f
 
 ##Francisco:
 
-We chose the France flag.
+I chose the France flag.
 
-We chose this flag by its simplicity, so I thought I could add something more valuable and take the most of it.
+I chose this flag by its simplicity, so I thought I could add something more valuable and take the most of it.
 
-I started by doing some variations, trying different shapes, playing with lots of colours and manipulate them. Then I did some sketches until reached the final product.
+Thereafter, I started by doing some research about its history to know where to start and to do something more consistent and solid as well.
+
+During the entire process I did a few variations with several colours, trying to get different shapes and manipulate them as much as possible. Then I did some sketches until I reached the final product.
 
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_1.png?raw=true)
+Variation 1
 
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_2.png?raw=true)
+Variation 2
 
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_3.png?raw=true)
+Variation 3
 
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/variations_4.png?raw=true)
+Variation 4
 
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/variations_5.png)
+Variation 5
 
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/variations_6.png)
+Variation 6
 
 
 ####Final Implementation
 
-![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/sketches.png)
+One of the goals was to end with something simple that could show the entire beauty of the flag.
+
+![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/sketches.jpg)
+Sketches 
 
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/final_1.png)
+Variation 1
 
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/franceflag/final_2.png)
+Variation 2
+
+###Own Flag
+
+When choosing my flag, I looked for a landscape that had loads of different visual aspects to represent them into a flag.
+
+![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/ownflag/ownflag.png)
+Landscape chosen
+
+![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/ownflag/sketches.jpg)
+Sketches 
+
+I did some sketches around symbols and played as much I could with the atmosphere and history behind it to have something simple and engaging at the same time.
+
+I tried different colours, different shapes and turning it into something meaningful was a priority and also a challenge. 
+
+![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/ownflag/ownflag_variation1.png)
+Variation 1
+
+![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/ownflag/ownflag_variation2.png)
+Variation 2
 
 
 
