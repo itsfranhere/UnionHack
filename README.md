@@ -22,6 +22,9 @@ I chose the France flag.
 
 I chose this flag by its simplicity, so I thought I could add something more valuable and take the most of it.
 
+![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/franceflag.jpg)
+France Flag
+
 Thereafter, I started by doing some research about its history to know where to start and to do something more consistent and solid as well.
 
 During the entire process I did a few variations with several colours, trying to get different shapes and manipulate them as much as possible. Then I did some sketches until I reached the final product.
