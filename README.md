@@ -18,14 +18,12 @@ Union Hack consisted in mashing up a flag of our election and then designing a f
 
 ##Francisco:
 
-I chose the France flag.
-
-I chose this flag by its simplicity, so I thought I could add something more valuable and take the most of it.
+I chose the France flag. I choose this flag because of its simplicity, and for this reason I thought it would be easier to experiment different patterns, colours or even defragmentation.
 
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/franceflag/franceflag.jpg)
 France Flag
 
-Thereafter, I started by doing some research about its history to know where to start and to do something more consistent and solid as well.
+For further knowledge, I started by doing some research about its historical content to know where to start investing at first place, so that I could do something more consistent and solid.
 
 During the entire process I did a few variations with several colours, trying to get different shapes and manipulate them as much as possible. Then I did some sketches until I reached the final product.
 
@@ -62,14 +60,14 @@ Variation 2
 
 ###Own Flag
 
-When choosing my flag, I looked for a landscape that had loads of different visual aspects to represent them into a flag.
+When choosing my own flag, I looked for a landscape that had a range of different visual aspects to represent them into a flag.
 
 ![image](https://github.com/itsfranhere/UnionHack/blob/master/Francisco's%20Flag/ownflag/ownflag.png)
 Landscape chosen
 
 I did some sketches around symbols and played as much I could with the atmosphere and history behind it to have something simple and engaging at the same time.
 
-I tried different colours, different shapes and turning it into something meaningful was a priority and also a challenge. 
+I tried different colours, different shapes to obtain something meaningful and consistent in each variation, achieving this way the final product.
 
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/ownflag/sketches.jpg)
 Sketches 
@@ -79,6 +77,8 @@ Variation 1
 
 ![image](https://github.com/itsfranhere/UnionHack/raw/master/Francisco's%20Flag/ownflag/ownflag_variation2.png)
 Variation 2
+
+I planned my lesson from the analyse of the brief to the final implementation for a continuous process. The main key points were the transformation I gave to each flag which gave a different purpose for each context, respecting all the principles.
 
 
 
